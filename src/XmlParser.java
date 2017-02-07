@@ -9,6 +9,7 @@ public class XmlParser {
 	public void LoadXmlDocument(String fullPath) {
 
 		try {
+
 			File xmlFile = new File(fullPath);
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
