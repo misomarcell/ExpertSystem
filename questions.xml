@@ -1,121 +1,116 @@
-Párduc, Oroszlán, Gorilla, Makákó, Bambusznád, Majomkenyérfa, Kókuszdió, Szavannák, Fekete nők
-
-
 <Rules>
-    <Rule id=”allat”>
-        <Question>
-            “Állat?”
-        </Questoion>
+    <Rule id="allat">
+        <Question>"Állat?"</Question>
         <Answer>
-            <Selection value=”true”>
-                <SingleValue value=”igen”/>
+            <Selection value="true">
+                <SingleValue value="igen"/>
             </Selection>
-            <Selection value=”false”>
-                <SingleValue value=”nem”/>
+            <Selection value="false">
+                <SingleValue value="nem"/>
             </Selection>
         </Answer>
     </Rule>
-<Rule id=”soreny”>
+<Rule id="soreny">
         <Question>
-            “Van sörénye?”
+            "Van sörénye?"
         </Question>
         <Answer>
-            <Selection value=”true”>
-                <SingleValue value=”igen”/>
+            <Selection value="true">
+                <SingleValue value="igen"/>
             </Selection>
-            <Selection value=”false”>
-                <SingleValue value=”nem”/>
+            <Selection value="false">
+                <SingleValue value="nem"/>
             </Selection>
         </Answer>
     </Rule>
-  <Rule id=”foltos”>
+  <Rule id="foltos">
         <Question>
-            “Vannak foltjai?”
+            "Vannak foltjai?"
         </Question>
         <Answer>
-            <Selection value=”true”>
-                <SingleValue value=”igen”/>
+            <Selection value="true">
+                <SingleValue value="igen"/>
             </Selection>
-            <Selection value=”false”>
-                <SingleValue value=”nem”/>
+            <Selection value="false">
+                <SingleValue value="nem"/>
             </Selection>
         </Answer>
     </Rule>
-  <Rule id=”kicsi”>
+  <Rule id="kicsi">
         <Question>
-            “Kisebb mint egy Gorilla??”
+            "Kisebb mint egy Gorilla??"
         </Question>
         <Answer>
-            <Selection value=”true”>
-                <SingleValue value=”igen”/>
+            <Selection value="true">
+                <SingleValue value="igen"/>
             </Selection>
-            <Selection value=”false”>
-                <SingleValue value=”nem”/>
+            <Selection value="false">
+                <SingleValue value="nem"/>
             </Selection>
         </Answer>
     </Rule>
-  <Rule id=”kiszeltunde”>
+  <Rule id="kiszeltunde">
         <Question>
-            “Hasonlít Kiszel Tündére?”
+            "Hasonlít Kiszel Tündére?"
         </Question>
         <Answer>
-            <Selection value=”true”>
-                <SingleValue value=”igen”/>
+            <Selection value="true">
+                <SingleValue value="igen"/>
             </Selection>
-            <Selection value=”false”>
-                <SingleValue value=”nem”/>
+            <Selection value="false">
+                <SingleValue value="nem"/>
             </Selection>
         </Answer>
     </Rule>
-    <Rule id=”noveny”>
+    <Rule id="noveny">
           <Question>
-              “Növény?”
+              "Növény?"
           </Question>
           <Answer>
-              <Selection value=”true”>
-                  <SingleValue value=”igen”/>
+              <Selection value="true">
+                  <SingleValue value="igen"/>
               </Selection>
-              <Selection value=”false”>
-                  <SingleValue value=”nem”/>
+              <Selection value="false">
+                  <SingleValue value="nem"/>
               </Selection>
           </Answer>
       </Rule>
-      <Rule id=”gyumolcse_a_majmok_kedvence”>
+      <Rule id="gyumolcse_a_majmok_kedvence">
             <Question>
-                “Gyümölcse a majmok kedvence?”
+                "Gyümölcse a majmok kedvence?"
             </Question>
             <Answer>
-                <Selection value=”true”>
-                    <SingleValue value=”igen”/>
+                <Selection value="true">
+                    <SingleValue value="igen"/>
                 </Selection>
-                <Selection value=”false”>
-                    <SingleValue value=”nem”/>
+                <Selection value="false">
+                    <SingleValue value="nem"/>
                 </Selection>
             </Answer>
         </Rule>
-        <Rule id=”fan_fordul_elo”>
+        <Rule id="fan_fordul_elo">
               <Question>
-                  “Fán fordul elő?”
+                  "Fán fordul elő?"
               </Question>
               <Answer>
-                  <Selection value=”true”>
-                      <SingleValue value=”igen”/>
+                  <Selection value="true">
+                      <SingleValue value="igen"/>
                   </Selection>
-                  <Selection value=”false”>
-                      <SingleValue value=”nem”/>
+                  <Selection value="false">
+                      <SingleValue value="nem"/>
                   </Selection>
               </Answer>
           </Rule>
-          <Rule id=”zokni”>
+          <Rule id="zokni">
                 <Question>
-                    “Készül belőle zokni?”
+                    "Készül belőle zokni?"
                 </Question>
                 <Answer>
-                    <Selection value=”true”>
-                        <SingleValue value=”igen”/>
+                    <Selection value="true">
+                        <SingleValue value="igen"/>
                     </Selection>
-                    <Selection value=”false”>
-                        <SingleValue value=”nem”/>
+                    <Selection value="false">
+                        <SingleValue value="nem"/>
                     </Selection>
                 </Answer>
             </Rule>

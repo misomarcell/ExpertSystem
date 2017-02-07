@@ -1,51 +1,51 @@
 <KM>
-    <Fact id=”parduc”>
-        <Description value=”Párduc” />
+    <Fact id="parduc">
+        <Description value="Párduc" />
         <Evals>
-            <Eval id=”allat”>true</Eval>
-            <Eval id=”foltos”>true</Eval>
+            <Eval id="allat">true</Eval>
+            <Eval id="foltos">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”oroszlan”>
-        <Description value=”Oroszlán” />
+    <Fact id="oroszlan">
+        <Description value="Oroszlán" />
         <Evals>
-            <Eval id=”allat”>true</Eval>
-            <Eval id=”soreny”>true</Eval>
+            <Eval id="allat">true</Eval>
+            <Eval id="soreny">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”gorilla”>
-        <Description value=”Gorilla” />
+    <Fact id="gorilla">
+        <Description value="Gorilla" />
         <Evals>
-            <Eval id=”allat”>true</Eval>
-            <Eval id=”kiszeltunde”>true</Eval>
+            <Eval id="allat">true</Eval>
+            <Eval id="kiszeltunde">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”makako”>
-        <Description value=”Makákó” />
+    <Fact id="makako">
+        <Description value="Makákó" />
         <Evals>
-            <Eval id=”allat”>true</Eval>
-            <Eval id=”kicsi”>true</Eval>
+            <Eval id="allat">true</Eval>
+            <Eval id="kicsi">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”bambusznad”>
-        <Description value=”Bambusznád” />
+    <Fact id="bambusznad">
+        <Description value="Bambusznád" />
         <Evals>
-            <Eval id=”noveny”>true</Eval>
-            <Eval id=”zokni”>true</Eval>
+            <Eval id="noveny">true</Eval>
+            <Eval id="zokni">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”majomkenyerfa”>
-        <Description value=”Majomkenyérfa” />
+    <Fact id="majomkenyerfa">
+        <Description value="Majomkenyérfa" />
         <Evals>
-            <Eval id=”noveny”>true</Eval>
-            <Eval id=”gyumolcse_a_majmok_kedvence”>true</Eval>
+            <Eval id="noveny">true</Eval>
+            <Eval id="gyumolcse_a_majmok_kedvence">true</Eval>
         </Evals>
     </Fact>
-    <Fact id=”kokuszdio”>
-        <Description value=”Kókuszdió” />
+    <Fact id="kokuszdio">
+        <Description value="Kókuszdió" />
         <Evals>
-            <Eval id=”noveny”>true</Eval>
-            <Eval id=”fan_fordul_elo”>true</Eval>
+            <Eval id="noveny">true</Eval>
+            <Eval id="fan_fordul_elo">true</Eval>
         </Evals>
     </Fact>
 </KM>
