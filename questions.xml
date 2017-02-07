@@ -1,0 +1,122 @@
+Párduc, Oroszlán, Gorilla, Makákó, Bambusznád, Majomkenyérfa, Kókuszdió, Szavannák, Fekete nők
+
+
+<Rules>
+    <Rule id=”allat”>
+        <Question>
+            “Állat?”
+        </Questoion>
+        <Answer>
+            <Selection value=”true”>
+                <SingleValue value=”igen”/>
+            </Selection>
+            <Selection value=”false”>
+                <SingleValue value=”nem”/>
+            </Selection>
+        </Answer>
+    </Rule>
+<Rule id=”soreny”>
+        <Question>
+            “Van sörénye?”
+        </Question>
+        <Answer>
+            <Selection value=”true”>
+                <SingleValue value=”igen”/>
+            </Selection>
+            <Selection value=”false”>
+                <SingleValue value=”nem”/>
+            </Selection>
+        </Answer>
+    </Rule>
+  <Rule id=”foltos”>
+        <Question>
+            “Vannak foltjai?”
+        </Question>
+        <Answer>
+            <Selection value=”true”>
+                <SingleValue value=”igen”/>
+            </Selection>
+            <Selection value=”false”>
+                <SingleValue value=”nem”/>
+            </Selection>
+        </Answer>
+    </Rule>
+  <Rule id=”kicsi”>
+        <Question>
+            “Kisebb mint egy Gorilla??”
+        </Question>
+        <Answer>
+            <Selection value=”true”>
+                <SingleValue value=”igen”/>
+            </Selection>
+            <Selection value=”false”>
+                <SingleValue value=”nem”/>
+            </Selection>
+        </Answer>
+    </Rule>
+  <Rule id=”kiszeltunde”>
+        <Question>
+            “Hasonlít Kiszel Tündére?”
+        </Question>
+        <Answer>
+            <Selection value=”true”>
+                <SingleValue value=”igen”/>
+            </Selection>
+            <Selection value=”false”>
+                <SingleValue value=”nem”/>
+            </Selection>
+        </Answer>
+    </Rule>
+    <Rule id=”noveny”>
+          <Question>
+              “Növény?”
+          </Question>
+          <Answer>
+              <Selection value=”true”>
+                  <SingleValue value=”igen”/>
+              </Selection>
+              <Selection value=”false”>
+                  <SingleValue value=”nem”/>
+              </Selection>
+          </Answer>
+      </Rule>
+      <Rule id=”gyumolcse_a_majmok_kedvence”>
+            <Question>
+                “Gyümölcse a majmok kedvence?”
+            </Question>
+            <Answer>
+                <Selection value=”true”>
+                    <SingleValue value=”igen”/>
+                </Selection>
+                <Selection value=”false”>
+                    <SingleValue value=”nem”/>
+                </Selection>
+            </Answer>
+        </Rule>
+        <Rule id=”fan_fordul_elo”>
+              <Question>
+                  “Fán fordul elő?”
+              </Question>
+              <Answer>
+                  <Selection value=”true”>
+                      <SingleValue value=”igen”/>
+                  </Selection>
+                  <Selection value=”false”>
+                      <SingleValue value=”nem”/>
+                  </Selection>
+              </Answer>
+          </Rule>
+          <Rule id=”zokni”>
+                <Question>
+                    “Készül belőle zokni?”
+                </Question>
+                <Answer>
+                    <Selection value=”true”>
+                        <SingleValue value=”igen”/>
+                    </Selection>
+                    <Selection value=”false”>
+                        <SingleValue value=”nem”/>
+                    </Selection>
+                </Answer>
+            </Rule>
+</Rules>
